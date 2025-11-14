@@ -1,6 +1,6 @@
-# Web Testing 1
+# 🌐 Web Testing
 
-This repository contains automated tests for the [Swag Labs Store](https://www.saucedemo.com) using [Playwright](https://playwright.dev) and TypeScript. It follows the Page Object Model (POM) for modular, maintainable test scripts, with each test including assertions to validate functionality.
+This repository contains automated tests for a store demo website using [Playwright](https://playwright.dev) and TypeScript. It follows the Page Object Model (POM) for modular, maintainable test scripts, with each test including assertions to validate functionality.
 
 ## 🔧 How to Run
 
